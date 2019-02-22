@@ -1,7 +1,7 @@
 # Advanced-Programming-Techniques
 Two-Dimensional Discrete Fourier Transform on CPU and GPU
 
-For this assignment you will be implementing THREE dierent versions of the 2-dimensional DFT. One will be
+For this assignment you will be implementing THREE different versions of the 2-dimensional DFT. One will be
 using CPU threads, one will be using MPI and one will be running on GPUs using CUDA. As well as being graded
 for producing the correct output, each submission will be timed and a portion of your grade will be dependent on
 how your implementation performs against other implementations in the class. Timing of your code is best done by
